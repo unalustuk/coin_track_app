@@ -11,9 +11,9 @@ function App() {
         dispatch(fetchCoins())
     }, [dispatch])
 
-    console.log(coins.page)
+    console.log(coins.data)
 
-    return <div className="App">git test</div>
+    return <div className="App">gdit test</div>
 }
 
 export default App
