@@ -13,7 +13,7 @@ function App() {
 
     console.log(coins.page)
 
-    return <div className="App">app</div>
+    return <div className="App">git test</div>
 }
 
 export default App
